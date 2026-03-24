@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "太陽",
   "base_artist": "ヨルシカ",
-  "createdAt": "2025-12-23T13:52:48.325979Z",
+  "createdAt": "2026-03-24T01:20:09.280318Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -155,6 +155,15 @@
       "artist": "ヨルシカ",
       "has_synced": false,
       "path": "select/pl_01_太陽_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "太陽",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/localdb_01_太陽_ヨルシカ.txt",
+      "repo_name": "Qgj3xHRlGr8"
     }
   ]
 }
